@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{2B561658-30B5-425B-8D96-8106FDBDF5C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interfaces/Generics/Cliente.cs">
+    <Files>
+      <File FileName="Interfaces/Generics/Cliente.cs" Line="7" Column="2" />
+      <File FileName="Interfaces/Generics/Pedido.cs" Line="8" Column="52" />
+      <File FileName="Interfaces/Generics/Produto.cs" Line="8" Column="53" />
+      <File FileName="Interfaces/Generics/AcoesBancoDeDados.cs" Line="205" Column="1" />
+      <File FileName="Interfaces/Program.cs" Line="11" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfacesSOLIDGenerics" expanded="True">
+            <Node name="Interfaces" expanded="True">
+              <Node name="Generics" expanded="True">
+                <Node name="Cliente.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Testes" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Testes FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/danilo/Projects/Interfaces/Interfaces/Generics/AcoesBancoDeDados.cs" relfile="Interfaces/Generics/AcoesBancoDeDados.cs" line="83" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

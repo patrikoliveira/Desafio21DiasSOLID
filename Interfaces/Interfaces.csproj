@@ -17,6 +17,13 @@
     <Folder Include="SOLID\LSP\" />
     <Folder Include="SOLID\LSP\QuebrandoRegra\" />
     <Folder Include="SOLID\LSP\Solucao\" />
+    <Folder Include="SOLID\ISP\" />
+    <Folder Include="SOLID\ISP\QuebrandoRegra\" />
+    <Folder Include="SOLID\ISP\Solucao\" />
+    <Folder Include="SOLID\DIP\" />
+    <Folder Include="SOLID\DIP\QuebrandoRegra\" />
+    <Folder Include="SOLID\DIP\Solucao\" />
+    <Folder Include="Generics\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />

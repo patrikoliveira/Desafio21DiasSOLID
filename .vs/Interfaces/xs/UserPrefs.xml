@@ -1,21 +1,17 @@
 ﻿<Properties StartupConfiguration="{2B561658-30B5-425B-8D96-8106FDBDF5C9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Interfaces/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interfaces/Repo.cs">
     <Files>
-      <File FileName="Interfaces/Program.cs" Line="17" Column="44" />
-      <File FileName="Interfaces/SOLID/LSP/QuebrandoRegra/Toranja.cs" Line="11" Column="29" />
-      <File FileName="Interfaces/SOLID/LSP/QuebrandoRegra/Laranja.cs" Line="6" Column="23" />
-      <File FileName="Interfaces/SOLID/LSP/Solucao/Laranja.cs" Line="7" Column="10" />
-      <File FileName="Interfaces/SOLID/LSP/Solucao/Toranja.cs" Line="5" Column="6" />
-      <File FileName="Interfaces/SOLID/LSP/Solucao/Fruta.cs" Line="8" Column="32" />
+      <File FileName="Interfaces/Repo.cs" Line="9" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Interfaces" expanded="True">
+          <Node name="Interfaces" expanded="True" selected="True">
             <Node name="Solution Items" expanded="True" />
             <Node name="Interfaces" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="SOLID" expanded="True" />
             </Node>
+            <Node name="Testes" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -24,6 +20,7 @@
   <MonoDevelop.Ide.ItemProperties.Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Testes FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
